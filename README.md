@@ -1,6 +1,6 @@
 # 🔒 Predicting Cyberbullying on Social Media - Flask Web App
 
-![Cyberbullying Detection](https://media.giphy.com/media/3ohs4FfEPpW6n4VRUQ/giphy.gif)
+![Cyberbullying Detection](https://dragon.online-convert.com/download-file/48fed1e4-cb25-4df2-9b78-0d2c245041ea/d3a94b5f-b97d-4941-8bf5-515cb5c59773)
 
 ### 🚀 End-to-End Flask-Based AI Application for Detecting Cyberbullying on Social Media Platforms
 
