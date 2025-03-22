@@ -1,6 +1,6 @@
 # 🔒 Predicting Cyberbullying on Social Media - Flask Web App
 
-![Cyberbullying Detection](image.gif)
+![Cyberbullying Detection](/mnt/data/image.png)
 
 ### 🚀 End-to-End Flask-Based AI Application for Detecting Cyberbullying on Social Media Platforms
 
@@ -22,9 +22,53 @@ Cyberbullying is a growing concern in today's digital world. This Flask web appl
 
 ---
 
+## 💡 Features
+
+✅ **Real-Time Cyberbullying Detection** - Input a message and get immediate analysis.
+✅ **Advanced Machine Learning Models** - Uses RF, LR, SVM, Gradient Boosting, and Naive Bayes for high accuracy.
+✅ **Interactive Flask Web Interface** - Easy-to-use UI for text classification.
+✅ **Data Preprocessing & NLP** - Removes stopwords, tokenizes, and applies TF-IDF.
+✅ **Dashboard & Visualization** - Displays trends in cyberbullying detection.
+
+---
+
+## 🌐 Live Demo (Example Output)
+
+**Input:** "You're such a loser, no one likes you."
+
+**Prediction:** 🚨 **Cyberbullying Detected! (Toxic Behavior)**
+
+**Input:** "Hey, I hope you have a great day!"
+
+**Prediction:** ✅ **Safe Message (Non-Toxic)**
+
+---
+
+## 🌟 Model Performance
+
+| Model                  | Accuracy  | Precision | Recall  | F1-Score |
+|------------------------|----------|-----------|---------|----------|
+| **Logistic Regression** | **92.84%** | 93.12%    | 92.84%  | 92.91%   |
+| **Random Forest**      | **93.47%** | 93.64%    | 93.47%  | 93.52%   |
+| **Naive Bayes**        | **86.69%** | 86.72%    | 86.69%  | 86.32%   |
+| **SVM (Linear Kernel)** | **93.21%** | 93.36%    | 93.21%  | 93.24%   |
+| **SVM (RBF Kernel)**    | **93.00%** | 93.32%    | 93.00%  | 93.07%   |
+| **K-Nearest Neighbors** | **38.90%** | 73.93%    | 38.90%  | 38.04%   |
+| **Decision Tree**      | **91.16%** | 91.14%    | 91.16%  | 91.15%   |
+| **Gradient Boosting**  | **92.49%** | 93.15%    | 92.49%  | 92.61%   |
+
+**Evaluation Metrics:** Accuracy, Precision, Recall, F1-score.
+
+---
+
 ## 🎨 System Architecture
 
-![Architecture Diagram](architecture.png)
+**Architecture Overview:**
+1. **Data Collection & Preprocessing**: Collect social media text, clean data, and apply NLP techniques (tokenization, stopword removal, TF-IDF, etc.).
+2. **Model Training & Selection**: Train multiple ML models (Random Forest, SVM, Logistic Regression, etc.) and choose the best-performing one.
+3. **Web Application Development**: Integrate the trained model into a Flask-based web app for real-time analysis.
+4. **User Interaction**: Accept text input from users and display classification results.
+5. **Deployment & Monitoring**: Deploy on a cloud server and monitor performance over time.
 
 ---
 
@@ -86,6 +130,8 @@ python app.py
 ---
 
 🔥 **Let's make the internet a safer place with AI!** 🚀
+
+
 
 
 
