@@ -1,6 +1,6 @@
 # 🔒 Predicting Cyberbullying on Social Media - Flask Web App
 
-![Cyberbullying Detection](https://dragon.online-convert.com/download-file/48fed1e4-cb25-4df2-9b78-0d2c245041ea/d3a94b5f-b97d-4941-8bf5-515cb5c59773)
+![Cyberbullying Detection](image.png)
 
 ### 🚀 End-to-End Flask-Based AI Application for Detecting Cyberbullying on Social Media Platforms
 
@@ -15,7 +15,7 @@ Cyberbullying is a growing concern in today's digital world. This Flask web appl
 ### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-%E2%9C%94-black?style=for-the-badge&logo=flask)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-%E2%9C%94-purple?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-%E2%9C%94-red?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-%E2%9C%94-green?style=for-the-badge)
@@ -125,4 +125,6 @@ python app.py
 ---
 
 🔥 **Let's make the internet a safer place with AI!** 🚀
+
+
 
