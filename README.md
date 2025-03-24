@@ -77,7 +77,7 @@ Cyberbullying is a growing concern in today's digital world. This Flask web appl
 ### ➕ 1. Clone the Repository
 ```bash
 git clone https://github.com/chandu080201/Predicting_Cyberbullying_Infosys_Internship_Oct24.git
-cd cyberbullying-detection-flask
+cd Predicting_Cyberbullying_Infosys_Internship_Oct24
 ```
 
 ### ➕ 2. Install Dependencies
