@@ -116,7 +116,7 @@ python app.py
 👉 Create a new branch (`feature/new-feature`)  
 👉 Submit a PR 🎉  
 
-**Report issues:** [Open an issue](https://github.com/yourusername/cyberbullying-detection-flask/issues)
+**Report issues:** [Open an issue](https://github.com/chandu080201/cyberbullying-detection-flask/issues)
 
 ---
 
