@@ -125,7 +125,7 @@ python app.py
 🌟 **Star this repo** if you found it useful!  
 💬 **Follow me** for more AI projects!  
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/cyberbullying-detection-flask?style=social)  
+![GitHub Repo stars](https://img.shields.io/github/stars/chandu080201/cyberbullying-detection-flask?style=social)  
 
 ---
 
